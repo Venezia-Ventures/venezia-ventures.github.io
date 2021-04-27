@@ -41,4 +41,5 @@ This was setup as follows:
  
 
 to test locally the site, use:
+
    bundle exec jekyll serve
