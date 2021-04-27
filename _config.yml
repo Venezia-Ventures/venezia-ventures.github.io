@@ -1,5 +1,5 @@
 ---
-title: Trade -  Multipurpose Business & Corporate Jekyll Template
+title: Venezia Ventures v2
 timezone: UTC
 collections:
   features:
@@ -17,8 +17,8 @@ collections:
 email: themeaffairs@gmail.com
 description: Trade - Multipurpose Business & Corporate Jekyll Template Jekyll Theme
   For Mobile Apps Download Landing Page And Blogging.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 facebook_url: https://www.facebook.com/jekyll
 twitter_url: https://twitter.com/tryghost
 github_url: https://github.com/TryGhost/Ghost
@@ -48,8 +48,8 @@ pagination:
   sort_field: date
   sort_reverse: true
   category: posts
-  tag: ''
-  locale: ''
+  tag: 
+  locale: 
   trail:
     before: 2
     after: 2
