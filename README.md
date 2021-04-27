@@ -2,6 +2,15 @@
 
 This is simply a website for me to better understand Jekyll.
 
+Read these:
+https://www.siteleaf.com/blog/jekyll-from-scratch/
+
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+
+https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
+
+https://jekyllthemes.io/theme/trade-business-jekyll-theme
+
 
 This was setup as follows:
 
@@ -21,6 +30,7 @@ This was setup as follows:
 
 5) check over the settings
    git config -l
+   git status
    
 6) before doing updates locally, run this to bring in any changes from the CMS:
   git pull
