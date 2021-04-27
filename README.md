@@ -39,3 +39,6 @@ This was setup as follows:
 7) issue subsequent commits to remote:
   git commit -m "reason for the commit"
  
+
+to test locally the site, use:
+   bundle exec jekyll serve
