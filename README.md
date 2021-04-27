@@ -5,9 +5,9 @@ This is simply a website for me to better understand Jekyll.
 
 This was setup as follows:
 
-1) create a local directory to store the stie
+1) create a local directory to store the site
 
-2) unzip the theme
+2) unzip the theme into the aforementioned directory
 
 3) prep local machine with SSH key, add it to GitHub account, setup Personal Token for 2FA
 
@@ -25,4 +25,6 @@ This was setup as follows:
 6) before doing updates locally, run this to bring in any changes from the CMS:
   git pull
   
-  
+7) issue subsequent commits to remote:
+  git commit -m "reason for the commit"
+ 
