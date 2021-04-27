@@ -3,6 +3,7 @@
 This is simply a website for me to better understand Jekyll.
 
 Read these:
+
 https://www.siteleaf.com/blog/jekyll-from-scratch/
 
 https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
