@@ -1,8 +1,9 @@
 ---
-layout: featured
 title: Features & plugins
-image: /assets/img/features/05.jpg
-description: Features & plugins parturient denouncing pleasure and praising pain was born and I will give you a complete.
+layout: featured
+image: "/assets/img/features/05.jpg"
+description: Features & plugins parturient denouncing pleasure and praising pain was
+  born and I will give you a complete.
 ---
 
 <div class="row">

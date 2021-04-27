@@ -1,9 +1,10 @@
 ---
-layout: featured
 title: Responsive design
-icon: /assets/img/icons/ambulance-solid.svg
-image: /assets/img/services/03.jpg
-description: Responsive design parturient denouncing pleasure and praising pain was born and I will give you a complete.
+layout: featured
+icon: "/assets/img/icons/ambulance-solid.svg"
+image: "/assets/img/services/03.jpg"
+description: Responsive design parturient denouncing pleasure and praising pain was
+  born and I will give you a complete.
 ---
 
 <div class="row">

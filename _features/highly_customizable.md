@@ -1,8 +1,9 @@
 ---
-layout: featured
 title: Highly customizable
-image: /assets/img/features/04.jpg
-description: Highly customizable parturient denouncing pleasure and praising pain was born and I will give you a complete.
+layout: featured
+image: "/assets/img/features/04.jpg"
+description: Highly customizable parturient denouncing pleasure and praising pain
+  was born and I will give you a complete.
 ---
 
 <div class="row">

@@ -1,9 +1,10 @@
 ---
-layout: featured
 title: Faster More  Then Speed
-icon: /assets/img/icons/algolia-brands.svg
-image: /assets/img/services/02.jpg
-description: Condimentum consectetur quaerat parturient denouncing pleasure and praising pain was born and I will give you a complete.
+layout: featured
+icon: "/assets/img/icons/algolia-brands.svg"
+image: "/assets/img/services/02.jpg"
+description: Condimentum consectetur quaerat parturient denouncing pleasure and praising
+  pain was born and I will give you a complete.
 ---
 
 <div class="row">

@@ -1,9 +1,10 @@
 ---
-layout: featured
 title: Highly customizable
-icon: /assets/img/icons/air-freshener-solid.svg
-image: /assets/img/services/03.jpg
-description: Highly customizable parturient denouncing pleasure and praising pain was born and I will give you a complete.
+layout: featured
+icon: "/assets/img/icons/air-freshener-solid.svg"
+image: "/assets/img/services/03.jpg"
+description: Highly customizable parturient denouncing pleasure and praising pain
+  was born and I will give you a complete.
 ---
 
 <div class="row">

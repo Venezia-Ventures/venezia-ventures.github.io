@@ -1,8 +1,9 @@
 ---
-layout: featured
 title: Dedicated support
-image: /assets/img/features/02.jpg
-description: Dedicated support quaerat parturient denouncing pleasure and praising pain was born and I will give you a complete.
+layout: featured
+image: "/assets/img/features/02.jpg"
+description: Dedicated support quaerat parturient denouncing pleasure and praising
+  pain was born and I will give you a complete.
 ---
 
 <div class="row">

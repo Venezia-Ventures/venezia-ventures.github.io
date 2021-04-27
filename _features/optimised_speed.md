@@ -1,8 +1,9 @@
 ---
-layout: featured
 title: Optimised for speed
-image: /assets/img/features/01.jpg
-description: Condimentum consectetur quaerat parturient denouncing pleasure and praising pain was born and I will give you a complete.
+layout: featured
+image: "/assets/img/features/01.jpg"
+description: Condimentum consectetur quaerat parturient denouncing pleasure and praising
+  pain was born and I will give you a complete.
 ---
 
 <div class="row">

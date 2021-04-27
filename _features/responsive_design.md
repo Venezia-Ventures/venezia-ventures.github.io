@@ -1,8 +1,9 @@
 ---
-layout: featured
 title: Responsive design
-image: /assets/img/features/03.jpg
-description: Responsive design parturient denouncing pleasure and praising pain was born and I will give you a complete.
+layout: featured
+image: "/assets/img/features/03.jpg"
+description: Responsive design parturient denouncing pleasure and praising pain was
+  born and I will give you a complete.
 ---
 
 <div class="row">

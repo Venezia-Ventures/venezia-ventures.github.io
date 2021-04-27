@@ -1,8 +1,9 @@
 ---
-layout: featured
 title: Designs & interfaces
-image: /assets/img/service/details/sevice-details.jpg
-description: But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete.
+layout: featured
+image: "/assets/img/service/details/sevice-details.jpg"
+description: But I must explain to you how all this mistaken idea of denouncing pleasure
+  and praising pain was born and I will give you a complete.
 ---
 
 <div class="row">

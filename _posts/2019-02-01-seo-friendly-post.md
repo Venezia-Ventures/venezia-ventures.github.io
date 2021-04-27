@@ -1,10 +1,13 @@
 ---
+title: Seo Friendly Post Title venenatis a condimentum vitae
+date: 2019-02-01 14:37:13 Z
+categories:
+- health
+tags:
+- technology
+- education
 layout: post
-title: "Seo Friendly Post Title venenatis a condimentum vitae"
-date: 2019-02-01 20:37:13 +0600
-tags: technology education
-categories: [health]
-author: "ecuelass_chapman"
+author: ecuelass_chapman
 post_image: "/assets/img/blog/01.jpg"
 ---
 
