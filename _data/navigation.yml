@@ -30,5 +30,7 @@
 #    url: /pages/contact
 #  - text: 404
 #    url: /pages/404
+- text: Schedule a Meeting
+  url: https://venezia-ventures.youcanbook.me/
 - text: Contact
   url: /pages/contact
